@@ -1,1 +1,1 @@
-# Ukol-Piskvorky-4
+Úkol: Piškvorky 4/5
