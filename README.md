@@ -10,7 +10,7 @@ Tento úkol přímo navazuje na [Piškvorky 3](https://github.com/Czechitas-podk
 
 1. Přidej javascriptový soubor a napoj ho do stránky `hra.html`.
 
-1. Vytvoř si proměnnou, ve které bude uloženo kdo je na tahu. Začíná vždy kolečko, tak rovnou do proměnné přiřaď hodnotu `circle`.
+1. Vytvoř si proměnnou, ve které bude uloženo kdo je na tahu. Začíná vždy kolečko, tak rovnou do proměnné přiřaď hodnotu `'circle'`.
 
 1. Pomocí posluchače událostí po kliknutí na políčko:
 
@@ -22,7 +22,7 @@ Tento úkol přímo navazuje na [Piškvorky 3](https://github.com/Czechitas-podk
 
    1. Výchozí rámeček, který se objevuje po kliknutí na tlačítko, není potřeba stylovat. Může se uživateli hodit pro snazší ovládání z klávesnice.
 
-   1. Změň hodnotu proměnné z `circle` na `cross`, případně z `cross` na `circle`.
+   1. Změň hodnotu proměnné z `'circle'` na `'cross'`, případně z `'cross'` na `'circle'`.
 
    1. Uprav v levém horním rohu výpis, kdo je na tahu.
 
