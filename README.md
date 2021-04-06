@@ -32,7 +32,7 @@ Tento úkol přímo navazuje na [Piškvorky 3](https://github.com/Czechitas-podk
 
 ### Bonus
 
-- Zamez, aby na již vyplněná políčka se nešlo dostat klávesou `tab` přidáním atributu `disabled`.
+- Zamez, aby se na již vyplněná políčka nešlo dostat klávesou `tab` přidáním atributu `disabled`.
 
   ![tab](zadani/tab.gif)
 
