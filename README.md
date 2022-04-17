@@ -20,8 +20,6 @@ Tento úkol přímo navazuje na [Piškvorky 3](https://github.com/Czechitas-podk
 
       ![klik](zadani/klik.gif)
 
-   1. Výchozí rámeček, který se objevuje po kliknutí na tlačítko, není potřeba stylovat. Může se uživateli hodit pro snazší ovládání z klávesnice.
-
    1. Změň hodnotu proměnné z `'circle'` na `'cross'`, případně z `'cross'` na `'circle'`.
 
    1. Uprav v levém horním rohu výpis, kdo je na tahu.
